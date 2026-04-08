@@ -24,9 +24,9 @@ repository               : "ChungAndre/chungandre.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "André Chung"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I'm an ML and Software Engineer focused on computer vision and 3D graphics."
   location         : "Earth"
   employer         : "University of Fribourg"
   uri              : # URL
