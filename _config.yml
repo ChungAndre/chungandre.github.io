@@ -23,7 +23,7 @@ repository               : "ChungAndre/chungandre.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "André Chung"
   pronouns         : # example: "she/her"  
   bio              : "I'm an ML and Software Engineer focused on computer vision and 3D graphics."
